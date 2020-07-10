@@ -1,3 +1,2 @@
-i'm thanh
+Im trung
 
-i'm training git flow
